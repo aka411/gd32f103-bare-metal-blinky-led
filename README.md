@@ -3,6 +3,10 @@ A simple bare metal led blinky
 What it Does
 At its core, this project simply blinks an onboard LED. On most common GD32F103 development boards (such as the popular "Blue Pill" style boards), this LED is typically connected to GPIO Port Pin. The LED will repeatedly turn on and off with a visible delay, demonstrating basic output control.
 
+![Blinking LED](blinky_led.gif)
+
+
+
 ## Why Bare-Metal?
 The choice of a bare-metal approach is deliberate and offers several key advantages for learning and specific applications:
 
