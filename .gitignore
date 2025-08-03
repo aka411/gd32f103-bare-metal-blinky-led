@@ -1,0 +1,9 @@
+# Ignore build directory
+/build/
+
+# Ignore common build artifacts
+*.o
+*.a
+*.elf
+*.bin
+*.hex
