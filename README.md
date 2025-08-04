@@ -3,6 +3,7 @@
 A simple yet powerful project that demonstrates direct hardware control on the GD32F103C8T6 microcontroller. This project implements a classic "blinky" LED program by directly manipulating the microcontroller's GPIO and RCC registers, completely bypassing a hardware abstraction layer (HAL).
 
 This bare-metal approach offers a direct path to understanding the low-level mechanics of the GD32F103C8T6. A key part of this project involved configuring the Reset and Clock Control (RCC) peripheral to operate the microcontroller at a custom speed of 104 MHz, allowing me to gain an in-depth understanding of the MCU's clock tree.
+
 ![Blinking LED](blinky_led.gif)
 
 
