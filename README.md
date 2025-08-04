@@ -31,3 +31,8 @@ This bare-metal approach offers a direct path to understanding the low-level mec
         * **CAN:** 1 (CAN 2.0B)
         * **USB:** 1 (2.0 Full-speed)
     * **ADC:** 2 units (10 channels, 12-bit)
+
+ ## Resources
+
+* **[GD32F103xx Datasheet](https://www.gigadevice.com.cn/Public/Uploads/uploadfile/files/20250315/GD32F103xxDatasheet_Rev3.1.pdf)**: Provides electrical characteristics, pin assignments,memory map, and a high-level overview of the MCU.
+* **[GD32F10x User Manual](https://www.gigadevice.com.cn/Public/Uploads/uploadfile/files/20250317/GD32F10x_User_Manual_Rev2.9.pdf)**: A comprehensive reference manual for all peripherals, including detailed register descriptions for the RCC and GPIO modules.
